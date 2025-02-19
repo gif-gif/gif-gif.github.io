@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://docs.gif-gif.com/sitemap.xml
+Sitemap: https://goio.dev/sitemap.xml
